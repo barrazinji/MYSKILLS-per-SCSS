@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="155mm"
+   height="45mm"
+   viewBox="0 0 155 45"
+   version="1.1"
+   id="svg39493"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="MySkils.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview39495"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.73851712"
+     inkscape:cx="253.88714"
+     inkscape:cy="561.93687"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs39490">
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:19.4974px;line-height:125%;font-family:'MV Boli';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.270797"
+       x="83.754158"
+       y="14.94675"
+       id="text39990"
+       transform="scale(0.97148586,1.0293511)"><tspan
+         sodipodi:role="line"
+         x="83.754166"
+         y="14.94675"
+         id="tspan39988"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:19.4974px;font-family:'MV Boli';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.270797">Meine besonderen </tspan><tspan
+         sodipodi:role="line"
+         x="88.514267"
+         y="39.318501"
+         style="font-size:19.4974px;text-align:center;text-anchor:middle;stroke-width:0.270797"
+         id="tspan40003"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0"
+           dy="0 0 0 0 0 0 0 0 0 0 0 0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:19.4974px;font-family:'MV Boli';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.270797"
+           id="tspan40005">Fähigkeiten </tspan></tspan></text>
+  </g>
+</svg>

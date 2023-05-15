@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="180"
+   height="180"
+   viewBox="0 0 47.624998 47.625"
+   version="1.1"
+   id="svg767"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="MySkils-JS.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview769"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="0"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.7180275"
+     inkscape:cx="396.22438"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs764" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264999"
+       id="path771"
+       cx="23.8125"
+       cy="23.8125"
+       r="23.8125" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:1.25;font-family:'Nizar Aldhabi';-inkscape-font-specification:'Nizar Aldhabi, Normal';stroke-width:0.264583"
+       x="19.210455"
+       y="26.412342"
+       id="text827"><tspan
+         sodipodi:role="line"
+         id="tspan825"
+         style="fill:#ececec;stroke-width:0.264583"
+         x="19.210455"
+         y="26.412342">JS</tspan></text>
+  </g>
+</svg>

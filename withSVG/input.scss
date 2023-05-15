@@ -1,0 +1,79 @@
+$allSkills: HTML, CSS, SCSS, JS, Json, jQuery, PHP, MySql, Laravel;
+$i : 0;
+
+
+
+
+
+@mixin Skills($x, $y, $SkillName) {
+            position: absolute;
+            top: 50%;
+            left: calc(100vw - $y);
+            margin: -0px 0 0 -0px;
+            -webkit-animation: spin + $SkillName 1.5s linear 1;
+            -moz-animation: spin + $SkillName 1.5s linear 1;
+            animation: spin + $SkillName 1.5s linear 1;
+            animation-delay: $x;
+            animation-fill-mode: forwards;
+            opacity: 0;
+  }
+
+
+
+  @mixin moz( $abs, $SkillName: html) {
+        0% {
+            opacity: 1;
+            left: 100px;
+            -moz-transform : rotate(0deg);
+            -webkit-transform: rotate(0deg);
+            transform-origin : 50% 50%;
+        }
+
+        100% {
+            opacity: 1;
+            left: calc(100vw - $abs);
+            -moz-transform: rotate(360deg);
+            -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+            transform-origin: 50% 50%;
+        }
+    }
+
+    @each $skil in $allSkills {
+    .#{$skil} {
+        @include Skills((($i) * 1.5s) , ($i - 1) * 180px, $skil );
+
+    };
+
+    @-moz-keyframes #{spin+ $skil}  {
+        @include moz( ($i + 2) * 180px, $skil );
+        
+        
+    };
+
+    @-webkit-keyframes #{spin+ $skil}  {
+        @include moz( ($i + 2) * 180px, $skil );
+        
+        
+    };
+
+    @keyframes #{spin+ $skil}  {
+        @include moz( ($i + 2) * 180px, $skil );
+        
+        
+    };
+
+    $i : $i + 1;
+    
+  }
+
+
+
+
+
+
+
+
+
+
+
